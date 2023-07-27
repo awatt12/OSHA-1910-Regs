@@ -67,11 +67,6 @@
 <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.osha.gov/laws-regs/federalregister/search?title_body=&field_date_range_radio=single&field_fr_date_single_value=&field_fr_publication_type%5B0%5D=63209&field_fr_publication_type%5B1%5D=63210&field_fr_publication_type%5B2%5D=63213</loc>
-<lastmod>2023-07-24T23:49:56+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
 <loc>https://www.osha.gov/laws-regs/standardinterpretations/publicationdate/currentyear</loc>
 <lastmod>2023-07-24T23:17:32+00:00</lastmod>
 <priority>0.80</priority>
